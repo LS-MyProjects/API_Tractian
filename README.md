@@ -2,14 +2,6 @@
 
 This API is part of the Tractian Challenge, designed to manage assets, locations, and companies. It provides endpoints for retrieving information about companies, locations within companies, and assets related to these companies. The API uses Swagger for automatic documentation, making it easy to understand and interact with the available endpoints.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation and Setup](#installation-and-setup)
-- [API Documentation](#api-documentation)
-- [Endpoints](#endpoints)
-
 ---
 
 ## Features
